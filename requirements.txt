@@ -1,0 +1,7 @@
+streamlit==1.32.0
+pyswisseph==2.10.03
+python-dateutil==2.8.2
+pytz==2024.1
+numpy==1.26.4
+nltk==3.8.1
+streamlit-extras==0.3.5
